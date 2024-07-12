@@ -1,4 +1,4 @@
-# Weather-Forecasting-Website
+# AtmosPredict
 
 Weather Forecasting Website
 
